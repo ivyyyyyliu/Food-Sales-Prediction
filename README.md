@@ -19,3 +19,5 @@ Data Dictionary
 ## To prepare this data, the data was cleaned and the following procsses were performed: 
   Here are examples:
   
+  <img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Exploratory%20.png" height="60" width="60" >
+  
