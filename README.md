@@ -27,8 +27,8 @@ This histogram shows that Fruits and Vegetables and Snack Foods are the most pop
 
 ### Explanatory Data Analysis
 
-<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%201.png" height="500" width="500" >
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%201.png" height="400" width="600" >
 
 <img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%203.png" height="500" width="500" >
 
-<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%202.png" height="500" width="500" >
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%202.png" height="500" width="1000" >
