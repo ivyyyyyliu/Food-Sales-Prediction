@@ -17,7 +17,8 @@ Data Dictionary
 
 
 ## To prepare this data, the data was cleaned and the following procsses were performed: 
-  Here are examples:
+###Exploratory Data Analysis
+- 
   
   <img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Exploratory%20.png" height="500" width="500" >
-  
+  This histogram shows that Fruits and Vegetables and Snack Foods are the most popular purchsing catalogric for customers.
