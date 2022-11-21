@@ -18,9 +18,17 @@ Data Dictionary
 
 ## To prepare this data, the data was cleaned and the following procsses were performed: 
 ### Exploratory Data Analysis
-- 
+
 
 
 <img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Exploratory%20.png" height="500" width="500" >
 
 This histogram shows that Fruits and Vegetables and Snack Foods are the most popular item type for customers.
+
+### Explanatory Data Analysis
+
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%201.png" height="500" width="500" >
+
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%203.png" height="500" width="500" >
+
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%202.png" height="500" width="500" >
