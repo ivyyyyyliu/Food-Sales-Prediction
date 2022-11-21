@@ -21,4 +21,4 @@ Data Dictionary
 - 
   
   <img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Exploratory%20.png" height="500" width="500" >
-  This histogram shows that Fruits and Vegetables and Snack Foods are the most popular purchsing catalogric for customers.
+  This histogram shows that Fruits and Vegetables and Snack Foods are the most popular purchsing categoric for customers.
