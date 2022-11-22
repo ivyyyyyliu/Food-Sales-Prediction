@@ -31,6 +31,13 @@ This histogram shows that Fruits and Vegetables and Snack Foods are the most pop
 
 <img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%201.png" height="300" width="500" >
 
+This graph shows that When Retail price increaseing, item sales will increaseing also in supermarket type 3.
+
 <img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%203.png" height="300" width="500" >
 
+
+This graph shows that Tier 2 Location has the most sales compared to other Locations.
+
 <img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%202.png" height="400" width="1000" >
+
+This graph shows that regular fat items have higher item visibility, MRP and Sales.
