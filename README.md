@@ -47,3 +47,10 @@ This graph shows that regular fat items have higher item visibility, MRP and Sal
 
 - Linear Regression Model
 - Decision Tree Regressor Model
+
+## Models Evaluated & Results
+- Linear Regression Model (Testing Set):
+  - R^2 = -1.6575880497968222e+19
+  - MAE = 558742259972.594
+  - MSE = 4.5732477819291586e+25
+  - RMSE = 6762579228318.999
