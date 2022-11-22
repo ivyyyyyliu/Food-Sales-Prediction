@@ -41,3 +41,9 @@ This graph shows that Tier 2 Location has the most sales compared to other Locat
 <img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%202.png" height="400" width="1000" >
 
 This graph shows that regular fat items have higher item visibility, MRP and Sales.
+
+
+### Maching Learning Using the Following Models:
+
+- Linear Regression Model
+- Decision Tree Regressor Model
