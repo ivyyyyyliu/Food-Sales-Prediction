@@ -54,3 +54,6 @@ This graph shows that regular fat items have higher item visibility, MRP and Sal
   - MAE = 558742259972.594
   - MSE = 4.5732477819291586e+25
   - RMSE = 6762579228318.999
+- Decision Tree Regressor Model (Testing Set):
+  - R^2: 0.23769742878875222
+  - RMSE: 1450.2329055736004
