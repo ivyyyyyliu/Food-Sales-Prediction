@@ -26,7 +26,7 @@ Data Dictionary
 This histogram shows that Fruits and Vegetables and Snack Foods are the most popular item type for customers.
 
 ### Explanatory Data Analysis
-
+- To visualize the date for explantory purpose, 
 
 
 <img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%201.png" height="300" width="500" >
