@@ -57,3 +57,9 @@ This graph shows that regular fat items have higher item visibility, MRP and Sal
 - Decision Tree Regressor Model (Testing Set):
   - R^2: 0.23769742878875222
   - RMSE: 1450.2329055736004
+
+
+## For Further Information
+### For any additional questions, please contact:
+- LiPing Liu
+- ivyliuzp@gmail.com
