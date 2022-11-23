@@ -64,10 +64,13 @@ This graph shows that regular fat items have higher item visibility, MRP and Sal
 ## Recommendation
 
 For the retailer:
-
 To understand more about the sales, we obtained the information from data that item and outlet are both important rule to predict sales.
 - Items
-  - 
+  - Fruits and Vegetables and Snack Foods are the most popular items. I would recommend retailer can either focus on generating more sales on these two types or planning to get more sale from other types by promoting.
+  - Regular fat content items has higher items visibility, MRP and sale compare to low fat content, retailer can import more regular fat content item.
+- Outlet
+  - Outlet also play crucial roles in predicting sales.
+  - Supermarket type 3 and location tier 2 performance the best sale among others, ratailers can consider to expand more on hot location and reduce to oepn or maintain the unpopular location in order to reduce the cost.
 
 ## Model Performance
 
