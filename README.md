@@ -59,6 +59,21 @@ This graph shows that regular fat items have higher item visibility, MRP and Sal
   - RMSE: 1450.2329055736004
 
 
+
+
+## Recommendation
+
+For the retailer:
+
+To understand more about the sales, we obtained the information from data that item and outlet are both important rule to predict sales.
+- Items
+  - 
+
+## Model Performance
+
+Overall, the best model is definitely the tuned Decision Tree Regressor Model. There was still some bias in the model, but by far it outperformed than linear regression model.
+
+
 ## For Further Information
 ### For any additional questions, please contact:
 - LiPing Liu
