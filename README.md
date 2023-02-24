@@ -29,7 +29,7 @@ This histogram shows that Fruits and Vegetables and Snack Foods are the most pop
 - To visualize the date for explantory purpose, one scatterplot and two bargraphs are presented. 
 
 
-<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%201.png" height="300" width="500" >
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%201.png" height="500" width="500" >
 
 This graph shows that When Retail price increaseing, item sales will increaseing also in supermarket type 3.
 
@@ -83,14 +83,14 @@ For this part of the project, we  will be producing a new version of your final 
 - Fit and evaluate LinearRegresion model using dataframe X_train and X_test data.
 - Extract and visualize the coefficients that the model determined.
 - Select the top 3 most impactful features.
-<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/coeffs.png" height="400" width="600" >
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/coeffs.png" height="500" width="600" >
 
 ## Tree-Based Model
 - Fit and evaluate LinearRegresion model using dataframe X_train and X_test data.
 - Extract and visualize the feature importances that the model determined.
 - Identify the top 5 most important features.
 
-<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/importances.png" height="400" width="500" >
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/importances.png" height="400" width="600" >
 
 ## For Further Information
 ### For any additional questions, please contact:
