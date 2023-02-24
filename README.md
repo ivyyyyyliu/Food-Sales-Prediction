@@ -119,7 +119,7 @@ From above coefficients graph, we know that these are the Top 3 Most impactful F
 Feature found by shap are not exactly the same as previous one, the first and the second are the same. In shap, the supermarket type 3 go up in to third place. The item visibility went down to the last. However, we have new feature - Establishment Year.
 
 ## a summary plot - dot version
-<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/summary_plot_dot.png" height="800" width="400" >
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/summary_plot_dot.png" height="800" width="600" >
 - Item MRP:
   - The Sales will be higher if the items prices are higher
 - Outlet type Grocery Store
