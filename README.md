@@ -76,6 +76,21 @@ To understand more about the sales, we obtained the information from data that i
 
 Overall, the best model is definitely the tuned Decision Tree Regressor Model. There was still some bias in the model, but by far it outperformed than linear regression model.
 
+## Project 1 Revisited - Part 1: Remaking, Saving, and Explaining Your Models
+For this part of the project, we  will be producing a new version of your final project notebook using the updated tools in sklearn v1.1
+
+## LinearRegression
+- Fit and evaluate LinearRegresion model using dataframe X_train and X_test data.
+- Extract and visualize the coefficients that the model determined.
+- Select the top 3 most impactful features.
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/coeffs.png" height="400" width="1000" >
+
+## Tree-Based Model
+- Fit and evaluate LinearRegresion model using dataframe X_train and X_test data.
+- Extract and visualize the feature importances that the model determined.
+- Identify the top 5 most important features.
+
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/importances.png" height="400" width="1000" >
 
 ## For Further Information
 ### For any additional questions, please contact:
