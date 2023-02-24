@@ -122,10 +122,11 @@ Feature found by shap are not exactly the same as previous one, the first and th
 <img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/summary_plot_dot.png" height="800" width="600" >
 - Item MRP:
   - The Sales will be higher if the items prices are higher
-- Outlet type Grocery Store
+- Outlet type Grocery Store:
   - it will affect sales.
 - Outlet type Supermarket Type 3
   - more supermarket type 3, it will increasing more sales.
+
 
 ## For Further Information
 ### For any additional questions, please contact:
