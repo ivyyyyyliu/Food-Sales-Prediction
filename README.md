@@ -29,7 +29,7 @@ This histogram shows that Fruits and Vegetables and Snack Foods are the most pop
 - To visualize the date for explantory purpose, one scatterplot and two bargraphs are presented. 
 
 
-<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%201.png" height="300" width="500" >
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Explanatory%201.png" height="500" width="600" >
 
 This graph shows that When Retail price increaseing, item sales will increaseing also in supermarket type 3.
 
@@ -76,6 +76,42 @@ To understand more about the sales, we obtained the information from data that i
 
 Overall, the best model is definitely the tuned Decision Tree Regressor Model. There was still some bias in the model, but by far it outperformed than linear regression model.
 
+## Project 1 Revisited - Part 1: Remaking, Saving, and Explaining Your Models
+For this part of the project, we  will be producing a new version of your final project notebook using the updated tools in sklearn v1.1
+
+## LinearRegression
+- Fit and evaluate LinearRegresion model using dataframe X_train and X_test data.
+- Extract and visualize the coefficients that the model determined.
+- Select the top 3 most impactful features.
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/coeffs.png" height="500" width="600" >
+
+### Top 3 Most impactful features
+From above coefficients graph, we know that these are the Top 3 Most impactful Features:
+- Outlet Type Supermarket Type 3
+    - Have the highest coefficients among features which that Type 3 Supermarket have more sales than others.
+- Outlet Size High
+    - Sales tend to be better in bigger size outlet.
+- Outlet Type Supermarket Type 1
+    - Type 1 Supermarket have better sales than Type 2 but not Type 3 which is has the highest coefficients.
+
+## Tree-Based Model
+- Fit and evaluate LinearRegresion model using dataframe X_train and X_test data.
+- Extract and visualize the feature importances that the model determined.
+- Identify the top 5 most important features.
+
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/importances.png" height="400" width="600" >
+
+### Top 5 most important features:
+- Item MRP
+    - Item Market Retail Price are the most important factor for Sales.
+- Outlet Type Grocery Store
+    - Grocery Store has better sales than other outlet types.
+- Item Visibility
+    - its important to have good visibility for selling items, better visibility more likely to engage with consumers and maximise sales.
+- Outlet Type Supermarket Type3
+    - People are likely to go to type 3, it could be the interior design/ style of the supermarket or size tend to have more people like to go there.
+- Item Weight
+    - Item Weights are matter so people could probably tend to do online delivery for heavier items.
 
 ## For Further Information
 ### For any additional questions, please contact:
