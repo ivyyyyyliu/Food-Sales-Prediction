@@ -113,6 +113,22 @@ From above coefficients graph, we know that these are the Top 3 Most impactful F
 - Item Weight
     - Item Weights are matter so people could probably tend to do online delivery for heavier items.
 
+## a summary plot - bar version
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/summary_plot_rf.png" height="800" width="600" >
+
+Feature found by shap are not exactly the same as previous one, the first and the second are the same. In shap, the supermarket type 3 go up in to third place. The item visibility went down to the last. However, we have new feature - Establishment Year.
+
+## a summary plot - dot version
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/summary_plot_dot.png" height="800" width="600" >
+ 
+ ### interpretation of the top 3 most important features
+- Item MRP
+    - The Sales will be higher if the items prices are higher
+- Outlet type Grocery Store
+    - it will affect sales.
+- Outlet Type Supermarket Type 1
+    - more supermarket type 3, it will increasing more sales.
+
 ## For Further Information
 ### For any additional questions, please contact:
 - LiPing Liu
