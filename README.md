@@ -132,12 +132,16 @@ Feature found by shap are not exactly the same as previous one, the first and th
 ### Local Explanations
 - Below are the Force Plots and Lime Explanations for high MRP and Low MRP
 
-<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/forceplot1.png" height="800" width="1000" >
-<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/forceplot2.png" height="800" width="1000" >
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/forceplot1.png" height="400" width="1000" >
+<img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/forceplot2.png" height="400" width="1000" >
 
 
 <img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/lime1.png" height="600" width="800" >
 <img src="https://github.com/ivyyyyyliu/Food-Sales-Prediction/blob/main/Data/lime2.png" height="600" width="800" >
+
+
+
+
 ## For Further Information
 ### For any additional questions, please contact:
 - LiPing Liu
